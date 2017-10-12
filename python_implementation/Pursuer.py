@@ -71,7 +71,7 @@ class Pursuer:
             self.xyMismatch=self.xyMismatch+1#if there is an x-y mismatch, increases its x probability in following method
         
         elif targXBhvr==False and self.p_xGenerated==True:
-            print("James behavior: y       Moji behavior: y        MISMATCH")
+            print("James behavior: y       Moji behavior: x        MISMATCH")
             self.yxMismatch=self.yxMismatch+1#if there is a y-x mismatch, decreates x probability in following method
         
         elif targXBhvr==False and self.p_xGenerated==False:
