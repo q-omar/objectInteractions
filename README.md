@@ -5,4 +5,4 @@ Two objects, amicably named after my TA and prof, exhibit a behavior. User is fi
 
 Sample output:
 
-![ScreenShot](python_implementation/d.png)
+![ScreenShot](python_implementation/output.png)
